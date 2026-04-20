@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+python-dotenv
+python-multipart
+numpy
+torch

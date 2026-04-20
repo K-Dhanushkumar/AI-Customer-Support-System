@@ -1,0 +1,23 @@
+How do I reset my password?
+Go to the sign-in page, select Forgot password, and follow the email reset link.
+
+How can I update my billing information?
+Open your account settings, choose Billing, and replace the saved payment method.
+
+What should I do if I receive a login error?
+Check your email and password first, then clear the browser cache and try again.
+
+How do I contact support?
+Use the Help Center contact form or email support@example.com from your registered account.
+
+What is the refund policy?
+Refund requests are reviewed within 3 to 5 business days and are issued according to the purchase terms.
+
+How can I change my plan?
+Visit your subscription page and choose the plan upgrade or downgrade option.
+
+How do I track my order?
+Open the Orders page to view the current shipping status and tracking number.
+
+What happens if my payment fails?
+Verify the card details, ensure sufficient funds, and retry the payment after a few minutes.
